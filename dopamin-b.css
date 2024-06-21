@@ -1,0 +1,361 @@
+@charset "UTF-8";
+
+   
+
+body {
+    background-color: #000000;
+    font-style: normal;
+    font-weight: 200;    
+    }
+
+    .change{
+        width: 100%;
+    }
+
+    button {
+        padding: 0px 30px;
+        font-size: 10px;
+        cursor: pointer;
+        border: none;
+        border-radius: 20px;
+        transition: background-color 0.3s, color 0.3s;
+        position: fixed;
+        opacity: 40%;
+    }
+
+    .toggle-off {
+        background-color: #650f28;
+        color: #650f28;
+    }
+    
+    .toggle-on {
+        background-color: #9cc6d1;
+        color: #9cc6d1;
+    }
+    
+    .main{
+        width: 100%;
+        text-align: center; 
+        }
+    
+        .main-1{
+            width: 100%;
+        }
+    
+        .v1{
+        margin-top: 20%;
+        margin-bottom: 17%;
+        width: 100%;
+        height: 100vh;
+        text-align: center;
+        }
+    
+        .vi-img{
+            width: 75%;
+        }
+    
+        .v2{
+            margin-top: 8%;
+            margin-bottom: 45%;
+            width: 100%;
+            text-align: center;
+            }
+    
+         .v2-img{
+             width: 100%;
+         }
+    
+    
+        .type{
+            width: 100%;
+            height: auto;
+            text-align:te cenr;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            scroll-behavior: smooth;
+            margin-top: 10%;
+        }
+    
+        .type1{
+            margin-left: 5%;
+            width: 78%;
+            height: 100vh;
+            text-align: center;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            margin-bottom: 10%;
+        }
+    
+        .type1-1{
+            width: 51%;
+            height: 100vh;
+        }
+    
+        .type1-2{
+            width: 49%;
+            height: 100vh;
+    
+        }
+    
+        .type1-11{
+            width: 100%;
+            height: 15%;
+        }
+    
+        .type1-12{
+            width: 100%;
+            height: 67%;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+        }
+    
+        .type-img1{
+            width: 80%;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+        }
+    
+        .type-i{
+            width: 100%;
+            
+        }
+      
+        .type1-13{
+            width: 100%;
+            height: 18%;
+            text-align: left;
+        }
+    
+        .ab{
+            width: 10%;
+            margin-left: 15%;
+        }
+    
+        .type1-133{
+            width: 100%;
+            height: 10%;
+        }
+    
+        .type1-14{
+            width: 100%;
+            height: 40%;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            text-align: center;
+        }
+    
+        .d1{
+            margin-top: 5%;
+            width: 50%;
+    
+        }
+    
+    
+    
+    
+        .type1-15{
+            width: 100%;
+            height: 25%;
+        }
+    
+        .type1-16{
+            width: 100%;
+            margin-left: 6%;
+            margin-top: 20%;
+            height: auto;
+        }
+    
+        .title-img{
+            width: 100%;
+        }
+    
+        .type2{
+            width: 85%;
+            height: 100vh;
+            text-align: center;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            margin-bottom: 15%;
+        }
+    
+        .type2-1{
+            width: 51%;
+            height: 100vh;
+    
+        }
+    
+        .type2-2{
+            width: 54%;
+            height: 100vh;
+        }
+    
+        .type2-11{
+            width: 100%;
+            height: 16%;
+        }
+    
+        .type2-12{
+            width: 100%;
+            height: 26%;
+        }
+    
+        .type2-13{
+            width: 100%;
+            height: 35%;
+            display: flex; 
+            justify-content: left; /* 수평 정렬 */
+            text-align: center
+        }
+    
+        .d2{
+            width: 33.3%;
+            text-align: center;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+        }
+    
+        .type2-144{
+            width: 100%;
+            height: 23%;
+        }
+    
+        .type2-14{
+            width: 100%;
+            height: 27%;
+        }
+    
+        .type2-15{
+            width: 100%;
+            height: 57%;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+        }
+    
+        .type-img2{
+            width: 60%;
+            margin-top: 5%;
+        }
+    
+        .text{
+            width: 30%;
+            height: 100%;
+        }
+    
+        .text-img{
+            width: 45%;
+            margin-right: 45%;
+        }
+    
+    
+        .box{
+            width: 100%;
+            height: auto;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            text-align: center; 
+            margin-top: 25%;
+            margin-bottom: 15%;
+        }
+    
+    
+        .box1{
+            width: 80%;
+            height: 100vh;
+            text-align: center;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+        }
+    
+        .box1-1{
+            width: 50%;
+            height: auto;
+            display: flex; 
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+        }
+    
+        .box1-11{
+            width: 100%;
+            height: 33%;
+            display: flex; 
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+        }
+    
+        .title-img2{
+            width: 80%;
+        }
+    
+        .box1-2{
+            width: 50%;
+            height: auto;
+            display: flex; 
+            align-items: center;/* 수직 정렬 */
+        }
+    
+        .box1-12{
+            width: 100%;
+            height: 100%;
+        }
+    
+        .box1-13{
+            width: 100%;
+            height: 51%;
+            display: flex; 
+            justify-content: center; /* 수평 정렬 */
+            align-items: center;/* 수직 정렬 */
+            text-align: center;
+            overflow: hidden;
+            
+        }
+    
+        .box1-13 img:hover {
+            transform: scale(1.2); /* 이미지 확대 비율 설정 */
+        }
+    
+        .box-img{
+            width: 100%;
+            transition: transform 0.3s ease;
+    
+            
+        }
+
+
+        #videoContainer {
+            position: relative;
+            margin-left: 10%;
+            width: 80%;
+        }
+        #videoElement {
+            width: 100%;
+            display: block;
+        }
+        #playButton {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 10px 20px;
+            font-size: 15px;
+            cursor: pointer;
+            color: #000000;
+            background-color: #9cc6d1;
+            opacity: 20%;
+            border: none;
+            border-radius: 200px;
+            z-index: 10;
+        }
+    
+    
+    
